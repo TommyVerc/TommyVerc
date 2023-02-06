@@ -70,7 +70,7 @@ I am a passionate front-end developer with a love for coding and a drive to cont
 
 
 ## Github Stats  
-<table style="border:none;"><tr><td width="50%">
+<table><tr><td width="50%">
 
 <img src="https://github-readme-stats.vercel.app/api?username=rishavanand&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
 
