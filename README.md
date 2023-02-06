@@ -29,12 +29,11 @@ I am a passionate front-end developer with a love for coding and a drive to cont
 
 - 🔭 I’m currently working on PHP Management System
   
-
-- ⚡ Fun fact: I keep night shift swithed on at all times   
+  
+- 🌱 I’m currently learning Flutter  
   
 
-- 🌱 I’m currently learning Flutter  
-
+- ⚡ Fun fact: I keep night shift swithed on at all times   
 
 </td></tr>
 <br/>  
@@ -70,7 +69,7 @@ I am a passionate front-end developer with a love for coding and a drive to cont
 
 
 ## Github Stats  
-<table style="text-align:center;"><tr><td width="50%">
+<table><tr><td width="50%">
 
 <img src="https://github-readme-stats.vercel.app/api?username=rishavanand&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
 
