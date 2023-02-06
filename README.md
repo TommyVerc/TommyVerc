@@ -25,20 +25,15 @@ I am a passionate front-end developer with a love for coding and a drive to cont
 
 
 ## Rapidfire  
-<table><tr><td valign="top" width="50%">
+<table><tr><td valign="top" width="100%">
 
-<div align="right">
-<img src="https://camo.githubusercontent.com/e37ba631e0cde2bcb7c0c4cb4ddcbf9ebc464428f85a85a913fe2287f33ef192/68747470733a2f2f6d656469612e74656e6f722e636f6d2f476653582d753756474d3441414141432f636f64696e672e676966" align="right" height="" width="" />
-</div>  
-  
-
-- 🔭 I’m currently working on PHP Management System  
-  
-
-- 🌱 I’m currently learning Flutter  
+- #### <div align="center">🔭 I’m currently working on PHP Management System</div>  
   
 
 - ⚡ Fun fact: I keep night shift swithed on at all times   
+  
+
+- 🌱 I’m currently learning Flutter  
 
 
 </td><td valign="top" width="50%">
