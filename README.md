@@ -27,7 +27,7 @@ I am a passionate front-end developer with a love for coding and a drive to cont
 ## Rapidfire  
 <table><tr><td valign="top" width="100%">
 
-- #### <div align="center">🔭 I’m currently working on PHP Management System</div>  
+- 🔭 I’m currently working on PHP Management System
   
 
 - ⚡ Fun fact: I keep night shift swithed on at all times   
@@ -75,11 +75,11 @@ I am a passionate front-end developer with a love for coding and a drive to cont
 
 
 ## Github Stats  
-<table><tr><td valign="top" width="50%">
+<table><tr><td valign="top" width="100%">
 
 <img src="https://github-readme-stats.vercel.app/api?username=rishavanand&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
 
-</td><td valign="top" width="50%">
+</td><td valign="top" width="100%">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TommyVerc&hide_border=true&layout=compact" align="left" style="width: 100%" />
 
