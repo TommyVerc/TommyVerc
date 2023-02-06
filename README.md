@@ -25,7 +25,7 @@ I am a passionate front-end developer with a love for coding and a drive to cont
 
 
 ## Rapidfire  
-<table><tr><td valign="top" width="100%">
+<tr><td valign="top" width="100%">
 
 - 🔭 I’m currently working on PHP Management System
   
@@ -36,12 +36,7 @@ I am a passionate front-end developer with a love for coding and a drive to cont
 - 🌱 I’m currently learning Flutter  
 
 
-</td><td valign="top" width="50%">
-
-
-
-</td></tr></table>  
-
+</td></tr>
 <br/>  
 
 
