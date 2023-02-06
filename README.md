@@ -33,7 +33,7 @@ I am a passionate front-end developer with a love for coding and a drive to cont
 - 🌱 I’m currently learning Flutter  
   
 
-- ⚡ Fun fact: I keep night shift swithed on at all times   
+- ⚡ Fun fact: You can't hum if you hold your nose
 
 </td></tr>
 <br/>  
