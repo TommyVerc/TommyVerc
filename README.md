@@ -26,9 +26,6 @@ I am a passionate front-end developer with a love for coding and a drive to cont
 
 ## Rapidfire  
 <tr><td valign="top" width="100%">
-
-- 🔭 I’m currently working on PHP Management System
-  
   
 - 🌱 I’m currently learning Flutter  
   
